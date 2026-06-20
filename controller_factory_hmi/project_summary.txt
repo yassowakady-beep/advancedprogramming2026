@@ -1,0 +1,3 @@
+Project: Game Controller Production Line HMI
+
+The project simulates a complete controller manufacturing line. Controller units enter from component feed, pass through PCB testing, button fitting, shell pressing, trigger assembly, stick calibration, final quality control, packaging, and shipping. The HMI visualizes the conveyor, moving controller units, station status, reject bin, packed goods bin, component stock, event log, alarm messages, and production counters.
